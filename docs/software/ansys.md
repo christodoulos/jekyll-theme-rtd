@@ -1,7 +1,17 @@
 ---
 layout: default
-title: Εμπορικά λογισμικά
-nav_order: 1
+title: Ansys
+nav_order: 3
 ---
 
-# Εμπορικά λογισμικά
+# Ansys
+
+ansys
+
+## Ρυθμίσεις
+
+ρυθμίσεις ansys
+
+## Εγκατάσταση
+
+εγκατάσταση
