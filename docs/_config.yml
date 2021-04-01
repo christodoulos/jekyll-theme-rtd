@@ -3,7 +3,7 @@ description: Σελίδες wiki του Κέντρου Ηλεκτρονικών 
 remote_theme: carlosperate/jekyll-theme-rtd
 
 # Theme settings:
-site_author: Carlos Pereira Atencio
+site_author: Κέντρο Ηλεκτρονικών Υπολογιστών
 repo_url: "https://github.com/carlosperate/jekyll-theme-rtd"
 edit_on_github: false
 github_docs_folder: true
