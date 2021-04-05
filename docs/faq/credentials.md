@@ -10,6 +10,8 @@ blah blah
 
 ## Ξέχασα το password
 
+[[short url](https://bit.ly/31P1LpW)]
+
 Επιλέξτε _"Ξέχασα το password"_ από την κεντρική σελίδα του `my.central.ntua.gr`:
 
 ![](forgot-pass/forgot0.png)
@@ -33,8 +35,6 @@ blah blah
 Αφού διαβάσετε προσεκτικά το κείμενο και ακολουθήσετε το σύνδεσμο:
 
 κτλ κτλ
-
-([short url](https://bit.ly/31P1LpW))
 
 ## Θέλω ανανέωση
 
