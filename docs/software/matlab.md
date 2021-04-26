@@ -6,6 +6,8 @@ nav_order: 4
 
 # Matlab
 
+[[short url](https://bit.ly/3aHAniO)]
+
 ## Προετοιμασία για την εγκατάσταση
 
 Δημιουργήστε ένα λογαριασμό στη σελίδα της Mathworks (πατήστε στο "Create one!"):
