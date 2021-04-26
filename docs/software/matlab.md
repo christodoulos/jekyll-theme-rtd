@@ -6,7 +6,7 @@ nav_order: 4
 
 # Matlab
 
-[[short url](https://bit.ly/3aHAniO)]
+[[short url](https://bit.ly/3gEN1D2)]
 
 ## Προετοιμασία για την εγκατάσταση
 
