@@ -12,7 +12,7 @@ nav_order: 2
 | ---------- | ------------------------------------ | ---------- |
 | Matlab     | `licenses.central.ntua.gr`           | 27001      |
 | Ansys      | `licenses.central.ntua.gr`           | 1055, 2325 |
-| Abaqus     | `licenses.central.ntua.gr`           | 27001      |
+| Abaqus     | `licenses.central.ntua.gr`           | 27000      |
 | MSC        | `licenses.central.ntua.gr`           | 1700       |
 | Comsol     | `licenses.central.ntua.gr`           |            |
 | Catia      | `catialicenses.central.ntua.gr`      |            |
