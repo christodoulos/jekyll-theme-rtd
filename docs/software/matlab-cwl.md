@@ -10,7 +10,7 @@ nav_order: 5
 πανεπιστημιακής κοινότητας την ελεύθερη πρόσβαση σε MATLAB, Simulink και **όλα
 τα συνοδευτικά toolboxes**.
 
-Επιτρέπεται η δωρεάν χρήση όλων των προϊόντων MathWorks για έρευνα, διδασκαλία
+Επιτρέπεται η δωρεάν χρήση όλων των προϊόντων MathWorks **αποκλειστικά και μόνο** για έρευνα, διδασκαλία
 και μελέτη, για όλους τους υπαλλήλους, διδάκτορες και φοιτητές του
 πανεπιστημίου, τόσο σε πανεπιστημιακές όσο και σε ιδιωτικές συσκευές.
 
@@ -20,6 +20,12 @@ Portal](https://www.mathworks.com/academia/tah-portal/ntua-31572547.html) του
 [εδώ](https://www.mathworks.com/academia/campus/resources/quick-start.html),
 ενώ για βοήθεια κατά την εγκατάσταση μπορείτε να απευθυνθείτε στο [MathWorks
 Support](https://ch.mathworks.com/de/support/contact_us.html#CH).
+
+Επισημαίνουμε πως για την πρόσβαση στο MathWorks Campus Wide License του ΕΜΠ
+**δεν είναι απαραίτητη η χρήση της υπηρεσίας VPN**. Επίσης με την πρόσβαση στο
+[Matlab Online](https://www.mathworks.com/products/matlab-online.html) μπορείτε
+να χρησιμοποιήσετε τα Matlab & Simulink χωρίς να χρειάζεται να τα εγκαταστήσετε
+στον υπολογιστή σας.
 
 Γενικές πληροφορίες:
 
