@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Matlab
+title: Matlab (pre CWL)
 nav_order: 4
 ---
 
-# Matlab
+# Matlab (pre CWL)
 
 [[short url](https://bit.ly/3gEN1D2)]
+
+Οι παρακάτω οδηγίες αναφέρονται στην εγκατάσταση έως την έκδοση 2020b που αδειοδοτείται από τον εξυπηρετητή `licenses.central.ntua.gr`. Από την 1/7/2021 το ΕΜΠ διαθέτει Campus Wide License (CWL) για **όλα** τα προϊόντα της Mathworks. Πληροφορηθείτε για το CWL [εδώ](matlab-cwl).
 
 ## Προετοιμασία για την εγκατάσταση
 
