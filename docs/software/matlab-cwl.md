@@ -28,6 +28,11 @@ Support](https://ch.mathworks.com/de/support/contact_us.html#CH).
 να χρησιμοποιήσετε τα Matlab & Simulink χωρίς να χρειάζεται να τα εγκαταστήσετε
 στον υπολογιστή σας.
 
+# `username@ntua.gr` δεν είναι email διεύθυνση
+
+Προσοχή: το `username@ntua.gr` **δεν είναι email διεύθυνση** αλλά το αναγνωριστικό σας
+στην υπηρεσία κεντρικής ταυτοποίησης του ΕΜΠ. Μετά την επιτυχή κεντρική ταυτοποίηση από το ΕΜΠ στο Mathworks portal, ακολουθεί η δημιουργία Mathworks account, που συσχετίζεται με το Ιδρυματικό αναγνωριστικό σας. Εκεί θα σας ζητηθεί το email σας, συνεπώς πρέπει να εισάγετε μια πραγματική διεύθυνση, π.χ. `username@mail.ntua.gr` **και όχι `username@ntua.gr`**.
+
 Γενικές πληροφορίες:
 
 - [Online Training Suite](https://matlabacademy.mathworks.com/): Διαδραστικά
