@@ -46,7 +46,7 @@ nav_order: 2
 
 ## Δεν είμαι προπτυχιακός φοιτητής! Τι κάνω;
 
-[[short url]()https://bit.ly/3uFi0Um]
+[[short url](https://bit.ly/3uFi0Um)]
 
 Πρέπει να ολοκληρωθούν τα παρακάτω βήματα:
 
