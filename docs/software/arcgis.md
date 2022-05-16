@@ -6,7 +6,8 @@ nav_order: 6
 
 # ArcGIS
 
-Ξεκινήστε με τη [λήψη](http://wiki.central.ntua.gr/software/download.html) του λογισμικού στον τοπικό σας υπολογιστή:
+Ξεκινήστε με τη [λήψη](http://wiki.central.ntua.gr/software/download.html) του
+λογισμικού στον τοπικό σας υπολογιστή:
 
 ![](arcgis-setup/00.png)
 
@@ -50,7 +51,8 @@ nav_order: 6
 
 ![](arcgis-setup/10.png)
 
-Στο πλαίσιο _Define a License Manager now_ εισάγετε `arcgislicenses.central.ntua.gr`:
+Στο πλαίσιο _Define a License Manager now_ εισάγετε
+`arcgislicenses.central.ntua.gr`:
 
 ![](arcgis-setup/11.png)
 
@@ -66,8 +68,8 @@ nav_order: 6
 
 ![](arcgis-setup/14.png)
 
-**Απαραίτητη προϋπόθεση είναι να προηγηθεί η χρήση της υπηρεσίας [εικονικού ιδιωτικού δικτύου
-(VPN)](https://bit.ly/2LedY2N) που προσφέρεται από το [Κέντρο Δικτύων
-ΕΜΠ](https://bit.ly/32HMckw)¨:**
+**Απαραίτητη προϋπόθεση είναι να προηγηθεί η χρήση της υπηρεσίας
+[εικονικού ιδιωτικού δικτύου (VPN)](https://bit.ly/2LedY2N) που προσφέρεται από
+το [Κέντρο Δικτύων ΕΜΠ](https://bit.ly/32HMckw):**
 
 ![](openvpn.png)
