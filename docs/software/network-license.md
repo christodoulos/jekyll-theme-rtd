@@ -13,7 +13,7 @@ nav_order: 2
 | [Matlab (pre CWL)](http://wiki.central.ntua.gr/software/matlab.html) | `licenses.central.ntua.gr`           | 27001      |
 | Ansys                                                                | `licenses.central.ntua.gr`           | 1055, 2325 |
 | Abaqus                                                               | `licenses.central.ntua.gr`           | 27000      |
-| MSC                                                                  | `licenses.central.ntua.gr`           | 1700       |
+| MSC                                                                  | `licenses.central.ntua.gr`           | 27500      |
 | Comsol                                                               | `licenses.central.ntua.gr`           |            |
 | Catia                                                                | `catialicenses.central.ntua.gr`      |            |
 | CST Studio                                                           | `cststudiolicenses.central.ntua.gr`  |            |
